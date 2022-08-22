@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DomainLanguageInterpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\SourceCode\\DataDisplayPoc\\DDP_Dashboard\\2a37f4a5-3e9a-4ee3-8678-9687834d8426alphaFile.txt C:\\SourceCode\\DataDisplayPoc\\DDP_Dashboard\\2a37f4a5-3e9a-4ee3-8678-9687834d8426localDataOutput.csv"
+    }
+  }
+}
