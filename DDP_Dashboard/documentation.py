@@ -90,5 +90,6 @@ simulationInputText = dcc.Markdown(
 * Simulated target.
     - Plot errors of each estimator
     - Sum gains and losses of the chosen direction
+* Do note that the simulation (submit simulation) can take quite a bit of time.
 """
 )
